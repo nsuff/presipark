@@ -1,1 +1,0 @@
-permalink: /whho/index.html
